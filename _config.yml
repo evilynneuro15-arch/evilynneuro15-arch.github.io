@@ -1,0 +1,9 @@
+title: Neuro-sama Bot – Legal Hub
+description: Cute legal pages for the Neuro-sama Discord bot
+theme: minima
+
+header_pages:
+  - index.md
+  - privacy.md
+  - terms.md
+  - contact.md
